@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: tanglaw
+        psr4_prefix: tanglaw
+        src_path: app
